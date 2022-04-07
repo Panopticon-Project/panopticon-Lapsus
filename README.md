@@ -11,3 +11,5 @@ https://krebsonsecurity.com/2022/03/a-closer-look-at-the-lapsus-data-extortion-g
 https://arstechnica.com/information-technology/2022/03/lapsus-and-solar-winds-hackers-both-use-the-same-old-trick-to-bypass-mfa/
 
 https://www.scmagazine.com/analysis/ransomware/globant-confirms-falling-victim-to-lapsus-extortion-group
+
+https://www.theregister.com/2022/04/01/lapsus_uk_charges/
