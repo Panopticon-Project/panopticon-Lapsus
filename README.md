@@ -17,3 +17,7 @@ https://www.theregister.com/2022/04/01/lapsus_uk_charges/
 https://therecord.media/sitel-blames-okta-breach-on-legacy-network-from-acquisition/
 
 https://therecord.media/globant-confirms-reports-of-breach-after-lapsus-shares-70gb-of-stolen-files/
+
+https://www.okta.com/blog/2022/04/okta-concludes-its-investigation-into-the-january-2022-compromise/
+
+https://www.bleepingcomputer.com/news/security/okta-lapsus-breach-lasted-only-25-minutes-hit-2-customers/
