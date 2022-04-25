@@ -21,3 +21,5 @@ https://therecord.media/globant-confirms-reports-of-breach-after-lapsus-shares-7
 https://www.okta.com/blog/2022/04/okta-concludes-its-investigation-into-the-january-2022-compromise/
 
 https://www.bleepingcomputer.com/news/security/okta-lapsus-breach-lasted-only-25-minutes-hit-2-customers/
+
+https://www.securityweek.com/lapsus-hackers-gained-access-t-mobile-systems-source-code
