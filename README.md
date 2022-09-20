@@ -25,3 +25,5 @@ https://www.bleepingcomputer.com/news/security/okta-lapsus-breach-lasted-only-25
 https://www.securityweek.com/lapsus-hackers-gained-access-t-mobile-systems-source-code
 
 https://therecord.media/brazilian-police-launch-investigation-targeting-lapsus-group/
+
+https://www.bleepingcomputer.com/news/security/uber-links-breach-to-lapsus-group-blames-contractor-for-hack/
