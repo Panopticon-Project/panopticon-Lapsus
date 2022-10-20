@@ -27,3 +27,5 @@ https://www.securityweek.com/lapsus-hackers-gained-access-t-mobile-systems-sourc
 https://therecord.media/brazilian-police-launch-investigation-targeting-lapsus-group/
 
 https://www.bleepingcomputer.com/news/security/uber-links-breach-to-lapsus-group-blames-contractor-for-hack/
+
+https://therecord.media/brazilian-police-announce-arrest-of-alleged-lapsus-member/
